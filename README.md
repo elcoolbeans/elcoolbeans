@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... ethical hacking
 - 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ... dont
-- 😄 Pronouns: ... this is a sumb question
+- 😄 Pronouns: ... this is a dumb question
 - ⚡ Fun fact: ... im a super hero
 
 <!---
